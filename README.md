@@ -21,6 +21,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blob Opera. Machine learning and Opera for everyone](https://www.victorharbo.com/2021/02/25/blob-opera-machine-learning-og-opera-for-alle/?utm_source=rss&utm_medium=rss&utm_campaign=blob-opera-machine-learning-og-opera-for-alle)
+- [Ludvig Holberg, Luxury, Coffee and TEI — a digital introduction](https://www.victorharbo.com/2021/02/10/ludvig_holberg/?utm_source=rss&utm_medium=rss&utm_campaign=ludvig_holberg)
+- [First post: Introduction to the blog and the idea behind it](https://www.victorharbo.com/2021/02/08/forste-post/?utm_source=rss&utm_medium=rss&utm_campaign=forste-post)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](victorharbo.com)
