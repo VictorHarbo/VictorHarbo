@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=victorharbo.com&style=for-the-badge&url=https%3A%2F%2Fvictorharbo.com)](https://victorharbo.com)
 
-## I'm a Husband and Digital Historian!
+## I'm a Husband and Digital Historian! Yay!
 
 - 🌱 I’m currently learning: 
 - 🥅 2021 Goals: 
