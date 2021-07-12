@@ -32,4 +32,4 @@
 [website]: https://www.victorharbo.com
 [twitter]: https://twitter.com/VictorHarbo
 [instagram]: https://www.instagram.com/victorharbo/
-[linkedin]: https://www.linkedin.com/in/victor-harbo-olesen-936585156/
+[linkedin]: https://www.linkedin.com/in/victor-harbo-johnston-936585156/
