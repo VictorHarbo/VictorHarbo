@@ -1,10 +1,11 @@
 ### Hi there, I'm Victor 👋
 
-[![Website](https://img.shields.io/website?label=victorharbo.com&style=for-the-badge&url=https%3A%2F%2Fvictorharbo.com)](https://victorharbo.com)
+[![Website](https://img.shields.io/website?label=victorharbo.com&style=for-the-badge&url=https%3A%2F%2Fvictorharbo.com)](https://www.victorharbo.com)
 
 ## I'm a Husband and Digital Historian!
 
-- 🌱 I’m currently learning: 
+- 📕 I'm currently reading: Inventing the internet by Janet Abbate
+- 🌱 I’m currently learning: Webscraping with python
 - 🥅 2021 Goals: 
 - ⚡ Fun fact: 
 
@@ -23,9 +24,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](victorharbo.com)
+➡️ [more blog posts...](https://www.victorharbo.com)
 
-[website]: victorharbo.com
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
+[website]: https://www.victorharbo.com
+[twitter]: https://twitter.com/VictorHarbo
+[instagram]: https://www.instagram.com/victorharbo/
+[linkedin]: https://www.linkedin.com/in/victor-harbo-olesen-936585156/
