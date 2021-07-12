@@ -1,13 +1,13 @@
-### Hi there, I'm Victor 👋
+## Hi there, I'm Victor 👋
 
 [![Website](https://img.shields.io/website?label=victorharbo.com&style=for-the-badge&url=https%3A%2F%2Fvictorharbo.com)](https://www.victorharbo.com)
 
-## I'm a Husband and Digital Historian!
+### I'm a Husband and Digital Historian!
 
 - 📕 I'm currently reading: Inventing the internet by Janet Abbate
 - 🌱 I’m currently learning: Webscraping with python
-- 🥅 2021 Goals: 
-- ⚡ Fun fact: 
+- 🥅 2021 Goals: Publish more scripts and tools to my GitHub
+- ⚡ Fun fact: I like to play badminton
 
 ### Connect with me:
 
