@@ -4,7 +4,7 @@
 
 ### I'm a Husband and Digital Historian!
 
-- 📕 I'm currently reading: Inventing the internet by Janet Abbate
+- 📕 I'm currently reading: Algorithms of Opression by Safiya Noble
 - 🌱 I’m currently learning: Webscraping with python
 - 🥅 2021 Goals: Publish more scripts and tools to my GitHub
 - ⚡ Fun fact: I like to play badminton
