@@ -22,10 +22,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Review: “Inventing the Internet” by Janet Abbate - Victor Harbo](https://www.victorharbo.com/2021/07/12/review-inventing-the-internet-by-janet-abbate/)
-- [Blob Opera. Machine learning and Opera for everyone - Victor Harbo](https://www.victorharbo.com/2021/02/25/blob-opera-machine-learning-og-opera-for-alle/)
-- [Ludvig Holberg, Luxury, Coffee and TEI — a digital introduction - Victor Harbo](https://www.victorharbo.com/2021/02/10/ludvig_holberg/)
-- [First post: Introduction to the blog and the idea behind it - Victor Harbo](https://www.victorharbo.com/2021/02/08/forste-post/)
+- [[Action required] Your RSS.app Trial has Expired - Wed Jul 21 2021](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.victorharbo.com)
