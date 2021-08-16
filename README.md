@@ -22,7 +22,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sun Aug 15 2021](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Mon Aug 16 2021](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.victorharbo.com)
