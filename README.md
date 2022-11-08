@@ -2,8 +2,8 @@
 
 ### I'm a Husband and Digital Historian!
 
+- Currently interning at the Royal Danish Library in the Web and Communications department
 - 🥅 2022 Goals: Publish more scripts and tools to my GitHub
-- ⚡ Fun fact: I like to play badminton
 
 ### Connect with me:
 
